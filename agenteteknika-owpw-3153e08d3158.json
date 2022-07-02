@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agenteteknika-owpw",
+  "private_key_id": "3153e08d315817206cc559fdaa04e5d74f10f227",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0/lMkuu8kleKq\nrcFJb8q0xubtEhMl4MwgcJ4kodREv1tVDAbUg2mVd+m8M/o2v3uc2z1gR32gMvYS\n0OSF91yweBjmsAfSrkiiVb12hyJSpS7ydVuEh6dlfhIbXI1OUYFv7nDWbhDVak3O\neiuhKEYM75rrfvQmLFNVs5FGLSj+2UX7osguube9aZG8EvDuGIuJiUSLV8a/yEOZ\ni4uUYa+CirE4swSnQkN+FDt+/VF/HFFV7Wc4euSfNWa6eU+kRpzrqw7EsdrLzZJf\nkwm2xtrLGDQE1NdnSFoCYQPPmgm5RNSW+XTySgkQ0kf9YHaSnIel/N4OY5lnd2yG\njEEF9WfTAgMBAAECggEANp9Mc1jRJE7xzcXLgACzgdRHTAO48KUDpcSnDXIjcC35\n/9Q12XvhaQD78tcS6+PlB+UohD5/HNJUbkBJv150RDOyfChi7AO6GvfaSoOk6aE9\nZmHhoUEZVWlzSHupj5nMgP3KYwRroyTGX4qCUUwou+2x6OFzCHQ3IDWlobKuXR6u\nbNNVF8ZuoitGrlahFvZz9/5jyvdCAHXLbkv6VPQhAveaYHd1JuCrW4yAQm8Dyun6\ntsCk/2Yq7CQlcNBgsCr/HJEYc+LJgI4/5IWRZHyQJYWw9Ygqag2RBT1YyZ1KIfTw\nPNNqapXc6ZTj3n7Wy7ciP3nskdLhblIbfz4pHljpHQKBgQDa+uN2awwNbb3SKE/r\nMESd7Y3Ri6XFTdNZt11j3o/1rnVNaOqaYHWtKnnd8SgEOzdwVHxaFHbQOPNefSNJ\n58CoFd+IcEjbiP18ssarEEZyuSsoBYGfvRUzDnqk34Av7CfBBw4ZWXjwf7sy0o6Y\nKc4+4sOULo6G5ozPViaz2LUVdwKBgQDTl2/a0fEOVgpJ2yCd4F3addcK1s6AN0fZ\negUXNv6OPZBajL60wt0MULfsjziYAesVZ12nCVm6Zn1yk4CS2cXY/Jiz0cHDmBza\nMmFyIspojD4hdgU6Xf8AoUcaRHigEHGm9s3WXVT+w9FU5TOJF7XNZ5OAy9XiaPOM\nGxOzFM0HhQKBgDMosCGHSs6MV++USW+J3E4FJL/S30ykLP9lzmS5p2pfcro+C6k7\nZeKp7MTERXQPnZkZs9+brlJhK8Jke+0VPrZGPe3zRaI8c/RBFBb8+2hsCEAWYT0/\ngIdoF5ETQjBv/K2lB082zwFo5gQumu/DvJKGiejBo7yyei0qVGpp84xrAoGANJmc\n8OTn7AxvmlSjExxHuJs6zjMAOteDQQkYYuEE/w9G53u9nOokUX9veZtREljHvBZq\nLbAhYjlATk9k0xzYFk0VGP64EIusAIItv1Xuw3a5q0/PlObxEZMGPf1vjzsHRd5s\n5TFmg77iNxyTZy1BwMJS5N3HWfWFNfs1NnuhTJECgYEAjTyD9WJfNV/xK4DYcUkV\nKuEcyJZcGAzC6pJVf8B7auSmbaOpuvsYblYMfafphcyEVhwPSODKGNNf/obyZ6d8\n3qrE7rdzF9PPn1ah8AC9rS+dY51eWPRUk/+3kDw4pZzRPHRXFgzlHu7pjTc+GmL/\nNEpDMEloxIvKhVYu1DgS/4Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teknicaservicio@agenteteknika-owpw.iam.gserviceaccount.com",
+  "client_id": "117738105597461951864",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teknicaservicio%40agenteteknika-owpw.iam.gserviceaccount.com"
+}
